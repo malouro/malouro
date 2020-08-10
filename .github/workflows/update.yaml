@@ -1,0 +1,31 @@
+on:
+  push: 
+    branches:
+      - master
+  schedule:
+    - cron '0 11 * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - name: Cache
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hasFiles('yarn.lock') }}
+      - name: Install Deps
+        run: yarn Install
+      - name: Update README
+        run: yarn update:readme
+      - name: Push updates
+        uses: mikael/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
