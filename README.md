@@ -1,13 +1,13 @@
 ### Hi there! 👋
 
-I'm Mike Louro - a software developer with an affinity for learning and practicing creativity.
+I'm Mike Louro - a software developer with an affinity for learning, good music and lending a helping hand.
 
-Big into...
+### I'm big into...
   * Making the web accessible ♿
   * Testing and automation 🧪
   * Making Discord bots 🤖
 
-Currently working on...
+### Currently working on...
   * [Yggis](https://github.com/malouro/yggis-bot) - a framework for making Discord bots
   * Personal website/portfolio at [mikelouro.com](https://mikelouro.com)
 
