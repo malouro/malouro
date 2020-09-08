@@ -1,17 +1,15 @@
-### Hi there! 👋
+# Welcome! 👋
 
-I'm Mike Louro - a software developer with an affinity for learning, good music and lending a helping hand.
-
-### I'm big into...
-  * Making the web accessible ♿
+## A lot of my work on GitHub involves:
+  * Discord bots 🤖
   * Testing and automation 🧪
-  * Making Discord bots 🤖
+  * Learning, studying, and note taking 📝
 
-### Currently working on...
+## Currently working on:
   * [Yggis](https://github.com/malouro/yggis-bot) - a framework for making Discord bots
   * Personal website/portfolio at [mikelouro.com](https://mikelouro.com)
 
-### Recently I've... 
+## Recent activity:
 
 <!--START_SECTION:activity-->
 1. 🎊  Merged PR [#66](https://github.com//malouro/ggis-bot/pull/66) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
