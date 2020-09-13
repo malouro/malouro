@@ -12,9 +12,9 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#73](https://github.com//malouro/ggis-bot/issues/73) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
-2. ❗️ Opened issue [#72](https://github.com//malouro/ggis-bot/issues/72) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
-3. ❗️ Opened issue [#71](https://github.com//malouro/ggis-bot/issues/71) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
-4. ❗️ Opened issue [#70](https://github.com//malouro/ggis-bot/issues/70) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
-5. 🎊  Merged PR [#67](https://github.com//malouro/ggis-bot/pull/67) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+1. 🎊  Merged PR [#48](https://github.com//malouro/ggis-bot/pull/48) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+2. 🎊  Merged PR [#43](https://github.com//malouro/ggis-bot/pull/43) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+3. 🎊  Merged PR [#59](https://github.com//malouro/ggis-bot/pull/59) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+4. 🎊  Merged PR [#40](https://github.com//malouro/ggis-bot/pull/40) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+5. 🎊  Merged PR [#87](https://github.com//malouro/yggis-bot/pull/87) in [malouro/yggis-bot](https://github.com//malouro/yggis-bot)
 <!--END_SECTION:activity-->
