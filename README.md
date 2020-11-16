@@ -12,9 +12,9 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#88](https://github.com//malouro/ggis-bot/issues/88) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
-2. 🎊  Merged PR [#63](https://github.com//malouro/ggis-bot/pull/63) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
-3. ❗️ Closed issue [#87](https://github.com//malouro/ggis-bot/issues/87) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
-4. ❗️ Opened issue [#87](https://github.com//malouro/ggis-bot/issues/87) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
-5. 🗣 Commented on [#63](https://github.com//malouro/ggis-bot/issues/63) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+1. 💪 Opened PR [#89](https://github.com//malouro/ggis-bot/pull/89) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+2. ❗️ Opened issue [#88](https://github.com//malouro/ggis-bot/issues/88) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+3. 🎊  Merged PR [#63](https://github.com//malouro/ggis-bot/pull/63) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+4. ❗️ Closed issue [#87](https://github.com//malouro/ggis-bot/issues/87) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
+5. ❗️ Opened issue [#87](https://github.com//malouro/ggis-bot/issues/87) in [malouro/ggis-bot](https://github.com//malouro/ggis-bot)
 <!--END_SECTION:activity-->
