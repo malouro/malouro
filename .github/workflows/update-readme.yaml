@@ -2,16 +2,28 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '12 * * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: malouro/github-activity-readme@master
-        env:
-          EMOJI_MERGE_PR: '🎊'
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: GitHub Metrics
+        uses: lowlighter/metrics@master
+        with:
+          ## File to render
+          filename: github-metrics.svg
+          ## Auth
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          ## Plugins
+          # Used Languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          # Music
+          plugin_music: yes
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/6RBUOx0knUzK0K9hfjNwrt
