@@ -6,8 +6,8 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://open.spotify.com/playlist/6RBUOx0knUzK0K9hfjNwrt?si=bd26576ecdb84eaf">🎵 Open Spotify Playlist</a>
+    <td style="text-align: right;" align="right">
+      <a href="https://open.spotify.com/playlist/6RBUOx0knUzK0K9hfjNwrt?si=bd26576ecdb84eaf">🎵 Also, check out the tunes I code to. 👨‍💻 🎵</a>
     </td>
   </tr>
 </table>
