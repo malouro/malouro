@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: "0 */12 * * *"
   push:
     branches:
       - master
@@ -29,5 +29,7 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           # Music
-          plugin_music: no
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/6RBUOx0knUzK0K9hfjNwrt
+          plugin_music: yes
+          plugin_music_mode: recent
+          plugin_music_provider: spotify
+          plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
